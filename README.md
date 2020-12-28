@@ -1,4 +1,4 @@
-# i-m-gonna-broute-the-hell-out-of-you
+# I'm Gonna Broute The Hell Out Of You
 
 Game developed during the [GMTK2020](https://itch.io/jam/gmtk-2020), with the theme : **Out of Control**
 
